@@ -4,12 +4,6 @@ while True:
     todo=input(prompt)
     todos.append(todo)
     print(todos)
-    prompt='Enter you Todo:- '
-todos=[]
-while True:
-    todo=input(prompt)
-    todos.append(todo)
-    print(todos)
 
     password=input('Enter your password')
 while password !='Ghani':
