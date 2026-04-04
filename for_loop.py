@@ -23,3 +23,18 @@
  
 # for i in buttons:
 #     print(i.capitalize())
+
+# match name:
+#     case "John":
+#         print("Good Boy")
+#     case "Alice":
+#         print("head Girl")
+#     case _:
+#         print("None of Us")
+
+# fruits=['Grapes','Mango','Apple']
+# for fruit in fruits:
+#     print(fruit)
+i=[1,2,3,4,5,6]
+for i in range(i%2==0):
+    print(i)
